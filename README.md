@@ -1,3 +1,5 @@
+The project can be viewed here. [Real Time Covid Tracker] (https://arshivhare.github.io/RealTimeCoronaTracker/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
